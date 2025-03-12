@@ -1,7 +1,7 @@
 # Tcpdump-Report
 Documentação de um ataque a um site onde clientes baixavam um malware e eram redirecionados a outro site...
 
-<h2>📜Descrição:<h2>
+<h2>📜Descrição:</h2>
 
 Review the scenario below. Then complete the step-by-step instructions.
 You are a cybersecurity analyst for yummyrecipesforme.com, a website that sells
@@ -57,7 +57,7 @@ protocols used to establish the connection between the user and the website.
 You should also recommend a security action to take to prevent brute force
 attacks in the future.
 
-<h2>📝Log:<h2>
+<h2>📝Log:</h2>
 
 14:18:32.192571 IP your.machine.52444 > dns.google.domain: 35084+ A?
 yummyrecipesforme.com. (24)
